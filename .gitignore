@@ -1,0 +1,13 @@
+# Local instructions and private working materials
+START-HERE.md
+private-notes/
+originals/
+
+# Downloaded archives and temporary files
+*.zip
+*.tmp
+~$*
+
+# Operating-system files
+Thumbs.db
+.DS_Store
