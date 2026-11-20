@@ -15,7 +15,7 @@ window.PORTFOLIO = {
     "resume": "C:/GitHub/portfolio-site/assets/documents/ResumeEvanWeyGen.pdf",
     "headshot": "",
     "headshotAlt": "",
-    "intro": [],
+    "intro": ["Hello! My name is Evan and I am an Aerospace Engineering student at the University of South Carolina. I am currently working at McNair Aerospace Center as an undergraduate research assistant. I also serve as the Project Coordinator for the University of South Carolina SAMPE chapter."],
     "bio": [
   "[Your first paragraph]",
   "[Your second paragraph]"
