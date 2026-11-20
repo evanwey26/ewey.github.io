@@ -10,13 +10,16 @@ window.PORTFOLIO = {
     "gpa": "4.00 / 4.00",
     "email": "evanreedwey@gmail.com",
     "linkedin": "https://www.linkedin.com/in/evan-wey-86b314292/",
-    "github": "",
+    "github": "https://github.com/evanwey26",
     "siteURL": "",
-    "resume": "",
+    "resume": "C:/GitHub/portfolio-site/assets/documents/ResumeEvanWeyGen.pdf",
     "headshot": "",
     "headshotAlt": "",
     "intro": [],
-    "bio": []
+    "bio": [
+  "[Your first paragraph]",
+  "[Your second paragraph]"
+]
   },
   "roles": [
     {
@@ -34,8 +37,8 @@ window.PORTFOLIO = {
     {
       "title": "Teaching Assistant / Grader",
       "organization": "University of South Carolina",
-      "dates": "Aug 2025–present",
-      "writing": []
+      "dates": "Aug 2025 - December 2026",
+      "writing": ["I was a grader for Statics (EMCH200) and Solid Mechanics (EMCH260) for 2 years. My main roles were grading quizzes and midterm exams, and I also would speak with students about solutions to assessments and general tips for success in engineering courses."]
     }
   ],
   "projects": [
